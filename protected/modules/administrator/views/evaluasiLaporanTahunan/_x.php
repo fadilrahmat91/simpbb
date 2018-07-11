@@ -1,0 +1,10 @@
+// $ketetapan = new LaporanKetetapan; 
+    // $ketetapan->is_pagination = false; 
+    // $ketetapan->tahun = '2017'; 
+    // $ketetapan->sortby = ' KD_KECAMATAN DESC'; 
+    // $ketetapan->group_by = LaporanKetetapan::ORDER_KELURAHAN; 
+    // $ketetapan = $ketetapan->searchRekapitulasi(); 
+    // $k = $ketetapan->getData(); 
+    // echo "<pre>"; 
+    // print_r($k); 
+    // echo "</pre>"; 

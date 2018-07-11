@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nop",
+				"nopform"
+			],
+			[
+				"form",
+				"formsementara"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"t",
+				"tambahmember"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"create",
+				"createCommand"
+			],
+			[
+				"data",
+				"dataProvider"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"be",
+				"berat_kotor"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"NIP",
+				"NIP_REKAM_BYR_SPPT"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"ha",
+				"halaman"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"Fro",
+				"FROM"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"id",
+				"idfile"
+			],
+			[
+				"gambar",
+				"gambarlokasi"
+			],
+			[
+				"kode",
+				"kodeunik"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"user",
+				"userlevel"
+			],
+			[
+				"us",
+				"userlevel"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"sa",
+				"small\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ba",
+				"baris"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/online/protected/views/layouts/column1.php",
+		"/C/Users/Asus/Documents/template/Justified Nav Template for Bootstrap.html",
+		"/C/xampp/htdocs/fadil_punya/protected/modules/administrator/controllers/InformasiSpptController.php",
+		"/C/xampp/htdocs/array/array1.php",
+		"/C/Users/Asus/Documents/template/Justified Nav Template for Bootstrap_files/jquery-3.1.1.slim.min.js.download",
+		"/C/xampp/htdocs/fadilyii2/backend/models/LoginForm.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/fadilyii2/console/migrations/m130524_201442_init.php",
+		"/C/xampp/htdocs/fadilyii2/console/migrations/m180701_084040_book.php",
+		"/C/xampp/htdocs/fadilyii2/backend/config/main.php",
+		"/C/xampp/htdocs/fadilyii2/backend/models/Produk.php",
+		"/C/xampp/htdocs/fadilyii2/backend/controllers/SiteController.php",
+		"/C/xampp/htdocs/fadilyii2/backend/controllers/ApiController.php",
+		"/C/xampp/htdocs/fadil_punya/protected/modules/administrator/views/mahasiswa/_view.php",
+		"/C/xampp/htdocs/client/config/db.php",
+		"/C/xampp/htdocs/client/models/Produk.php",
+		"/C/xampp/htdocs/client/controllers/ProdukController.php",
+		"/C/xampp/htdocs/client/views/produk/index.php",
+		"/C/xampp/htdocs/apibasic/config/db.php",
+		"/C/xampp/htdocs/apibasic/web/index.php",
+		"/C/xampp/htdocs/fadilyii2/common/models/LoginForm.php",
+		"/C/xampp/htdocs/fadilyii2/backend/models/LoginApiForm.php",
+		"/C/xampp/htdocs/fadilyii2/common/models/User.php",
+		"/C/xampp/htdocs/crud_new/index.php",
+		"/C/xampp/htdocs/crud_new/.htaccess",
+		"/C/xampp/htdocs/crud_new/protected/views/produk/_form.php",
+		"/C/xampp/htdocs/absensi/application/controllers/account.php",
+		"/G/BSM/PROGRAM/simpbb/protected/modules/administrator/controllers/SubjekPajakController.php",
+		"/G/BSM/PROGRAM/simpbb/protected/modules/administrator/controllers/CrontabController.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/views/layouts/sign_in.php",
+		"/C/xampp/htdocs/simpbb_new1/protected/modules/administrator/controllers/LoginController.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/controllers/LoginController.php",
+		"/C/xampp/htdocs/simpbb_new1/protected/modules/administrator/views/layouts/sign_in.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/controllers/DefaultController.php",
+		"/C/xampp/htdocs/simpbb_new1/protected/modules/administrator/controllers/DefaultController.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/views/default/error.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/views/default/index.php",
+		"/C/xampp/htdocs/myproject/protected/config/main.php",
+		"/C/xampp/htdocs/myproject/themes/mypro/adminbsb/index.html",
+		"/C/xampp/htdocs/bsm_portfolio/protected/modules/administration/views/layouts/main.php",
+		"/C/xampp/htdocs/bsm_portfolio/.htaccess",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/views/layouts/column1.php",
+		"/C/xampp/htdocs/bsm_portfolio/protected/modules/administration/AdministrationModule.php",
+		"/C/xampp/htdocs/bsm_portfolio/protected/modules/administration/views/default/index.php",
+		"/C/xampp/htdocs/bsm_portfolio/protected/config/main.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/MyadminModule.php",
+		"/C/xampp/htdocs/simpbb_new1/protected/modules/administrator/views/layouts/main.php",
+		"/C/xampp/htdocs/myproject/protected/modules/myadmin/views/layouts/main.php",
+		"/C/xampp/htdocs/theme/adminbsb/index.html",
+		"/C/xampp/htdocs/simpbb_new1/protected/config/main.php",
+		"/C/xampp/htdocs/myproject/protected/config/database.php",
+		"/C/xampp/htdocs/myproject/.htaccess",
+		"/C/xampp/htdocs/simpbb/.htaccess",
+		"/C/xampp/htdocs/simpbb/protected/.htaccess",
+		"/C/xampp/htdocs/crud_new/protected/views/produk/admin.php",
+		"/C/xampp/htdocs/crud_new/protected/controllers/DAOcontroller.php",
+		"/C/xampp/htdocs/crud_new/protected/views/dao/formcreate.php",
+		"/C/xampp/htdocs/crud_new/protected/config/main.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/crud_new/protected/views/produk/_search.php",
+		"/C/xampp/php/ext/php_pdo_mysql.dll",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/historyBayar/_rgridview.php",
+		"//192.168.1.13/share/query Evaluasi PER NOP.sql",
+		"/C/xampp/htdocs/simpbb_fadil/protected/models/LaporanEvaluasi.php",
+		"/C/Users/Asus/Downloads/Compressed/screencast-yiiframework-restfulapi-master/protected/config/main.php",
+		"/D/RAHMAT/query REALISASI kecamatan dan kelrahan",
+		"/C/xampp/htdocs/simpbb/protected/models/RealisasiTahunan.php",
+		"/C/xampp/htdocs/simpbb/protected/config/main.php",
+		"/C/xampp/htdocs/simpbb/protected/models/LaporanPiutang.php",
+		"/C/xampp/htdocs/simpbb/protected/models/LaporanPembayaran.php",
+		"/C/xampp/htdocs/simpbb/protected/models/LaporanKetetapan.php",
+		"/D/catatan FR/konten detail lengkap/KontenDetail.php",
+		"/C/xampp/htdocs/simpbb/protected/models/FileLokasi.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/controllers/AjaxController.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/admin.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/_form.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/_search.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/view.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/controllers/KontenDetailController.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/backendMenus/_form.php",
+		"/D/kontenDepan/display.php",
+		"/D/kontenDepan/sisi.php",
+		"/D/kontenDepan/view.php",
+		"/D/kontenDepan/index.php",
+		"/C/xampp/htdocs/simpbb/protected/controllers/KontenController.php",
+		"/C/xampp/htdocs/simpbb/protected/views/konten/index.php",
+		"/D/kontenDepan/badan.php",
+		"/D/kontenDepan/tahun.php",
+		"/F/FileLokasi.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/layouts/main.php",
+		"/F/layouts/main.php",
+		"/F/kontenDetail/admin.php",
+		"/D/catatan FR/function fadiil/functionfadil.php",
+		"/F/KontenDetailController.php",
+		"/C/xampp/htdocs/simpbb/protected/models/KontenDetail.php",
+		"/C/Users/Asus/Downloads/Compressed/yii/yii-1.1.19.5790cb/framework/vendors/htmlpurifier/standalone/HTMLPurifier/Filter/YouTube.php",
+		"/C/xampp/htdocs/simpbb/protected/config/db.php",
+		"/F/KontenDetail.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/_form_edit.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/update.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/create.php",
+		"/F/kontenDetail/_form_edit.php",
+		"//192.168.1.22/share/query pencariian.sql",
+		"/D/catatan FR/konten detail lengkap/KontenDetailController.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/controllers/KontenDetailControllerx.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/controllers/KontenDetailControllerlama.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/controllers/KontenDetailControllerxxx.php",
+		"/C/xampp/htdocs/simpbb/protected/views/konten/utama.php",
+		"/C/xampp/htdocs/simpbb/protected/views/konten/badan.php",
+		"/C/xampp/htdocs/simpbb/protected/models/TableKegiatan.php",
+		"/C/xampp/htdocs/simpbb/protected/modules/administrator/views/kontenDetail/_upload.php",
+		"/C/xampp/htdocs/simpbb/protected/views/konten/view.php",
+		"/C/Users/Asus/Downloads/Compressed/startbootstrap-agency-master/index.html",
+		"/C/xampp/htdocs/simpbb/.git/config",
+		"/C/xampp/htdocs/simpbb_last/protected/modules/administrator/controllers/KontenDetailController.php",
+		"/C/xampp/htdocs/simpbb/protected/config/console.php",
+		"/C/xampp/htdocs/uangkas_new/application/config/config.php",
+		"/C/xampp/htdocs/uangkas_new/application/config/database.php",
+		"/C/xampp/htdocs/crud_new/protected/models/Produk.php",
+		"/C/xampp/htdocs/crud_new/protected/controllers/BarangController.php",
+		"/C/xampp/htdocs/crud_new/protected/views/barang/_form.php",
+		"/C/xampp/htdocs/crud_new/protected/views/barang/admin.php",
+		"/C/xampp/htdocs/crud_new/protected/views/produk/index.php",
+		"/C/xampp/htdocs/crud_new/protected/views/pegawai/_form.php",
+		"/C/xampp/htdocs/bab14/protected/config/main.php",
+		"/C/Users/Asus/Downloads/Compressed/kode-otomatis.php",
+		"/C/xampp/htdocs/bab14/protected/views/pegawai/_form.php",
+		"/C/xampp/htdocs/absensi/application/config/config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "favicon.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"select KD_KECAMATAN, KD_KELURAHAN,KD_BLOK, SUM(B.P"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
